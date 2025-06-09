@@ -1,7 +1,8 @@
 # TuringMachineSimulator – PIN Doğrulama Turing Makinesi (Java)
 
 Bu proje, bir Turing makinesi modelini kullanarak ATM'deki PIN doğrulama sistemini simüle eder. Kullanıcıdan alınan PIN kodu, sistemde tanımlı sabit bir PIN koduyla Turing makinesi üzerinden karşılaştırılır.
-
+# Youtube link
+https://youtu.be/vAMxgFNDTL4
 ##  Amaç
 
 - Turing makinesi kavramını gerçek bir senaryo ile uygulamak
