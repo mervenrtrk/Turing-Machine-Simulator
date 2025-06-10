@@ -58,4 +58,8 @@ Turing makineleri, hesaplama kuramında temel bir model olup, her türlü algori
 
 ```bash
 javac TuringMachineSimulator.java
+<<<<<<< HEAD
 java TuringMachineSimulator 
+=======
+java TuringMachineSimulator
+>>>>>>> 0701e66b86cb16ed894726f2a54bc5d510f0333f
