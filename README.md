@@ -8,6 +8,7 @@ https://youtu.be/vAMxgFNDTL4
 <img src="images/tablo.jpg" width="500" height="200">
 <img src="images/çalışma.png" width="500" height="200">
 </p>
+
 ##  Amaç
 
 - Turing makinesi kavramını gerçek bir senaryo ile uygulamak
